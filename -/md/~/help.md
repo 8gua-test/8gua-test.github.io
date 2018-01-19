@@ -31,6 +31,15 @@
 2.  GITHUB [i8gua.github.io](https://i8gua.github.io)
 3.  BITBUCKET [8gua.bitbucket.io](https://8gua.bitbucket.io)
 
+## 手册
+
+
+## 官网  
+
+*   [8GUA.BLOG](https://8gua.blog)
+
+在码云、GITHUB、BITBUCKET都有同步的官网镜像。
+
 ## 联系方式
 
 邮箱 : [i@8gua.blog](mailto:i@8gua.blog)
