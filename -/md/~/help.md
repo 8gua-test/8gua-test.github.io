@@ -26,17 +26,10 @@
 
 最后，**八卦博客是开源项目，欢迎程序、设计、产品参与打磨**。
 
-## 手册
 
-1.  [安装部署](/~help/setup)
-2.  [更新日志](/~help/log)
-3.  [项目源起](/~help/source)
-
-## 官网  
-
-*   [8GUA.BLOG](https://8gua.blog)
-
-在码云、GITHUB、BITBUCKET都有同步的官网镜像。
+1.  码云 [i8gua.gitee.io](https://i8gua.gitee.io)
+2.  GITHUB [i8gua.github.io](https://i8gua.github.io)
+3.  BITBUCKET [8gua.bitbucket.io](https://8gua.bitbucket.io)
 
 ## 联系方式
 
